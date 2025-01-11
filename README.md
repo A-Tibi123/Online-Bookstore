@@ -23,6 +23,7 @@ The Online Bookstore is a web application that integrates Elasticsearch to demon
 - Gradinaru Alina
 - Ion Ioana Nicola
 - Nastase Ana-Maria
+- Hancel Andrei Tiberius
 
 ## RESTFUL Resources
 1. Authentication and User Management:
